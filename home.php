@@ -29,20 +29,18 @@
 		<div class="col-md-4">
 				<i class="fa fa-users fa-3x"></i>
 				<h6><a href="#">Meet us</a></h6>
-				<p>Registering for UFRGSMUN 2014 is really easy.
-					You just have to follow a few steps.</p>
+				<p>Meet the Secretariat of UFRGSMUN 2014</p>
+
 		</div>
 		<div class="col-md-4">
 			<i class="fa fa-desktop fa-3x"></i>
-			<h6><a href="#">Conference Info</a></h6>
-			<p>Registering for UFRGSMUN 2014 is really easy.
-				You just have to follow a few steps.</p>
+			<h6><a href="#">Apply</a></h6>
+			<p>Registering for UFRGSMUN 2014 is really easy.<p>
 		</div>
 		<div class="col-md-4">
 			<i class="fa fa-thumbs-up fa-3x"></i>
 			<h6><a href="#">Social Projects</a></h6>
-			<p>Registering for UFRGSMUN 2014 is really easy.
-					You just have to follow a few steps.</p>
+			<p>UFRGSMUN is engaged in several social activities.</p>
 		</div>
 </div>
 </section>

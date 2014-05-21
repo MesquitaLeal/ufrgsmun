@@ -127,25 +127,27 @@
 			<footer>
 				<div class="row footer-links hidden-xs">
 					<div class="col-md-2">
-						<p><a href="?page=about">About Us</a></p>
+						<p>About Us</p>
 						<ul class="footer">
-							<li><a href="#">What is a MUN?</a></li>
-							<li><a href="#">Edition Theme</a></li>
-							<li><a href="#">Meet Us</a></li>
-							<li><a href="#">Our History</a></li>
+							<li><a href="?page=about&section=mun">What is a MUN?</a></li>
+							<li><a href="?page=about&section=meet">Meet Us</a></li>
+							<li><a href="?page=about&section=social">Social Projects</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Committees</a></p>
+						<p>Conference Info</p>
+						<ul class="footer">
+							<li><a href="?page=conference&section=location">Location</a></li>
+						</ul>
 					</div>
 					<div class="col-md-2">
 						<p><a href="#">Apply</a></p>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Preparation</a></p>
+						<p><a href="#">Committees</a></p>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Social Projects</a></p>
+						<p><a href="#">Preparation</a></p>
 					</div>
 				</div>
 				<div class="row footer-copyright">
