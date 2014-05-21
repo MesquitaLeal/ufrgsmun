@@ -1,0 +1,103 @@
+<?php
+    $people =
+        array(
+            'Secretariat'=>array(
+                array(
+                    'name'=>"João Arthur da Silva Reis",
+                    'role'=>"Secretary General",
+                    'img'=>"jreis.jpg",
+                    'bio'=>"João Arthur da Silva Reis, Secretary-General, is a 7th semester student of International Relations at UFRGS. His main interests are regional integration processes, strategic studies, Brazilian politics, economics and foreign policy and Asian studies. He first participated in MUNs in 2011, in AMUN. Such occasion consolidated in him a great interest in MUNs, which started in the UFRGSMUN Preparation Course. This is the reason why he participated later that year in UFRGSMUN as a delegate. Subsequently, he participated in AMUN in 2012, and in TEMAS in 2012, 2013 and 2014. His involvement in UFRGSMUN staff began in 2012, when he was assistant director of the ASEAN Regional Forum in the 10th UFRGSMUN. In 2013, he assumed the post of Under-Secretary-General for Academic Affairs and Director of the Shanghai Cooperation Organization Summit. He has also been involved in UFRGSMUN Back in School, a project that brings International Relations issues to high school students, and in UFRGSMUNDI, a MUN for high school students."
+                ),
+                array(
+                    'name'=>"Matheus Machado Hoscheidt",
+                    'role'=>"Under-Secretary for <br/>Academic Affairs",
+                    'img'=>"default.png",
+                    'bio'=>"Matheus Machado Hoscheidt is a 7th semester student of International Relations at the Federal University of Rio Grande do Sul (UFRGS). He first got in contact with MUNs back in 2011, when he simulated a Chinese delegate in UFRGSMUN's SPECPOL. Since then, his strong belief on the educational relevance of MUNs led him to take part of UFRGSMUN's staff.   In 2012, he worked as Assistant Director of the UNWSUNR. In 2013, he was a Director of the Board of Executive Directors of the World Bank. This year, he took the challenge of being Under-Secretary General for Academic Affairs in order to carry out the best edition of UFRGSMUN."
+                ),
+                array(
+                    'name'=>"Willian Moraes Roberto",
+                    'role'=>"Under-Secretary for <br/>Academic Affairs",
+                    'img'=>"wroberto.jpg",
+                    'bio'=>"Willian Moraes Roberto, Under-Secretary-General for Academic Affairs, Director of the UNSC, is a 7th semester student of International Relations at UFRGS. He first got contact with MUNs in 2011, when he took part of AMUN and later in the same year of UFRGSMUN. On 2012 and 2013 he participated in other MUNs in Brazil, such as TEMAS, and also went to WorldMUN. In 2012 he also started as Assistant Director of the UNSC, and in 2013 turned to be Director of the same committe. This year, one more time he directs the UNSC also being Under-Secretary General for Academic Affairs. He is also Secretary-General of UFRGSMUNDI 2014, a MUN for High School students at UFRGS. "
+                ),
+                array(
+                    'name'=>"Bruna Contieri",
+                    'role'=>"Under Secretary for <br/>Administrative  Affairs",
+                    'img'=>"bcontieri.jpg",
+                    'bio'=>"Bruna Leão Lopes Contieri, Under Secretary-General for Administrative Affairs, is currently in 3rd semester of UFRGS' Faculty of Law and in the 5th semester of International Relatons at ESPM. She was first in touch with MUNs in 2012, in her freshman year, by simulating in AMUN and UFRGSMUN. In the same year, she got involved in the other models promoted and supported by UFRGS's students, such as Mundi, BIS and MUNDOCMPA. The next year, she entered UFRGSMUN's administrative staff, where she, until now, never left."
+                ),
+                array(
+                    'name'=>"Julia Oliveira Rosa",
+                    'role'=>"Under Secretary for<br/> Administrative  Affairs",
+                    'img'=>"jrosa.jpg",
+                    'bio'=>"is a 5th semester student of International Relations at UFRGS.She first took part in a MUN in 2012, in UFRGSMUN, representing Serbia in the UNHRC. In 2013, she was Assistant Director in the same committee. She has been involved in the past 2 years with RIPE (Relações Internacionais para Educadores), in 2014 year as one of the coordinators. In 2012 and 2013, she was part of the administrative staff of UFRGSMUNDI, this year she is Director of the African Union Committee. At the 12th UFRGSMUN she is Under Secretary for Administrative Affairs. Besides that, she is also of the coordinators of CERI (Centro Estudantil de Relações Internacional) and participates in UFRGSMUN Back in Schoool. Her main interests in International Relations are security, China, Africa and Middle East."
+                ),
+            ),
+            'Administrative'=> array (
+                array(
+                    'name'=>"Angela Brandalise",
+                    'role'=>"Assistant",
+                    'img'=>"abrandalise.jpg",
+                    'bio'=>"Angela Brandalise, is a 7th semester student of International Relations. She first became involved in MUNs back in 2011, when she represented Bosnia and Herzegovina at SPECPOL committee, and in 2012 participated as Republic of Korean at ARF. She is also involved in UFRSMUNDI, which is basically simulations of United Nations committees for high schools students, since 2013, first as a administrative staff member, and in 2014 as director of sector of alimentation. This year she is part of administrative staff of UFRGMUN, raising funds for the 12º edition of it. "
+                ),
+                array(
+                    'name'=>"Aline de Ávila Rocha",
+                    'role'=>"Assistant",
+                    'img'=>"arocha.jpg",
+                    'bio'=>"Aline de Ávila Rocha, Assistant Administrative, is a 3th semester student of International Relations at UFRGS. Her first contact with the event was in 2013 participating in DISEC’s committee representing India. In the 14th edition of UFRGSMUN she participates as an assistant on the administrative staff."
+                ),
+                array(
+                    'name'=>"Cecílio Dias Marques",
+                    'role'=>"Assistant",
+                    'img'=>"default.png",
+                    'bio'=>""
+                ),
+                array(
+                    'name'=>"Alice Saute Leitão",
+                    'role'=>"Events",
+                    'img'=>"aleitao.jpg",
+                    'bio'=>"Is a 5th semester student of International Relations at UFRGS. Participated of AMUN 2012, representing Japan at the UNHRC, and UFRGSMUN 2012, where she represented Vietnam at the UNWSUNR. Between 2012 and 2013, she had the CAPES scholarship \"Jovens Talentos para a Ciência\". In 2014, joined the administrative staff of UFRGSMUNDI and UFRGSMUN. Has also an internship at the State Department of Development and Investment Promotion (SDPI) of Rio Grande do Sul."
+                ),
+                array(
+                    'name'=>"Lucas Larentis",
+                    'role'=>"Events",
+                    'img'=>"llarentis.jpg",
+                    'bio'=>"Lucas Larentis is a 5th semester student of International Relations at UFRGS. His first participation in a MUN was in 2012, when he represented Vietnam at UFRGSMUN’s   World Bank.  Such occasion consolidated his interest in MUNs, which had started at UFRGSMUN’s Preparation Course. In 2013, he decided to be part of  UFRGSMUN’s administrative staff for the first time, continuing as an administrative assistant this year."
+                ),
+                array(
+                    'name'=>"Rodrigo Pasqualini Milagre",
+                    'role'=>"Events",
+                    'img'=>"rmilagre.jpg",
+                    'bio'=>"Rodrigo Pasqualini Milagre, member of the administrative staff, is a 5th semester student of International Relations at UFRGS. His first contact with MUN was two years ago at UFRGSMUN, when he represented Poland in the United Nations Human Rights Council. In last year’s edition he participated for the first time as a member of the Administrative Staff. In 2014 he is also involved in UFRGSMundi as an Academic Assistant."
+                ),
+                array(
+                    'name'=>"Carolina Carvalho Trindade",
+                    'role'=>"Communications",
+                    'img'=>"ctrindade.jpg",
+                    'bio'=>"Carolina Carvalho Trindade is a 3rd semester student of Journalism at UFRGS. This year it will be her first MUN experience. Besides helping with administrative issues and public relations of UFRGSMUN itself, she will be representing a big press agency at the event, interviewing and informing the delegates."
+                ),
+                array(
+                    'name'=>"Marcel Hartmann",
+                    'role'=>"Communications",
+                    'img'=>"default.png",
+                    'bio'=>"Marcel Hartmann is a 9th semester student of Journalism at UFRGS. He has experience with online and broadcast journalism, as well as with press agency. His main areas of interest are international, science and health journalism. His interest by international journalism started when he studied European politics and French culture in Grenoble, France. At the 10th UFRGSMUN, he is in charge of the Press Office. "
+                ),
+                array(
+                    'name'=>"Vitória Maldonado",
+                    'role'=>"Communications",
+                    'img'=>"default.png",
+                    'bio'=>""
+                ),
+            ),
+            'Academic'=>array (
+                'ADB'=>array(
+                    array(
+                        'name'=>"Vitória Maldonado",
+                        'role'=>"Communications",
+                        'img'=>"default.png",
+                        'bio'=>""
+                    ),
+                ),
+            ),
+        );
+?>
