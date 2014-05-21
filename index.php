@@ -152,6 +152,7 @@
 				</div>
 				<div class="row footer-copyright">
 					<p>UFRGSMUN 2014</p>
+					<p>Website developed by <a href="mailto:mesquitaleal@gmail.com">Marcelo Leal</a></p>
 				</div>
 			</footer>
 		</div>

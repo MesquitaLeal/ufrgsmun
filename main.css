@@ -519,11 +519,18 @@ address {
 
 .footer-copyright {
 	background-color: #181616;
-	padding: 15px 13.2%;
+	padding: 10px 13.2%;
 	color: #ffffff;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.4rem;
+}
+
+.footer-copyright p:last-child {
+	font-size: 1.2rem;
+	font-weight: normal;
+	margin-top: -10px;
+	color: #f6f6f6;
 }
 
 
