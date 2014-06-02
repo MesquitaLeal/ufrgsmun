@@ -4,9 +4,9 @@
 		<title>UFRGSMUN 2014</title>
 		<meta name="viewport" content="width=device-width initial-scale=1">
 		<meta charset="utf-8">
-		<link type="text/stylesheet" rel="stylesheet" href="bootstrap/css/bootstrap.css">
-		<link type="text/stylesheet" rel="stylesheet" href="font-awesome/css/font-awesome.css">
-		<link type="text/stylesheet" rel="stylesheet" href="main.css">
+		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
+		<link type="text/css" rel="stylesheet" href="font-awesome/css/font-awesome.css">
+		<link type="text/css" rel="stylesheet" href="main.css">
 	</head>
 
 	<body>
@@ -73,7 +73,21 @@
 									</ul>
 
 								</li>
-								<li><a href="?page=committees">Committees</a></li>
+								<li class="dropdown">
+									<a href="?page=committees">
+										Committees <i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="?page=committees&section=adb">ADB</a></li>
+										<li><a href="?page=committees&section=disec">DISEC</a></li>
+										<li><a href="?page=committees&section=icj">ICJ</a></li>
+										<li><a href="?page=committees&section=ipc">IPC</a></li>
+										<li><a href="?page=committees&section=unsc">UNSC</a></li>
+										<li><a href="?page=committees&section=wec">WEC</a></li>
+										<li><a href="?page=committees&section=wsis">WSIS</a></li>
+										<li><a href="?page=committees&section=zopacas">ZOPACAS</a></li>
+									</ul>
+								</li>
 								<li><a href="?page=preparation">Preparation</a></li>
 							</ul>
 						</div>
@@ -95,7 +109,7 @@
 					break;
 
 				case 'committees':
-					require 'committees.php';
+					require 'committees/index.php';
 					break;
 
 				case 'apply':
@@ -141,13 +155,29 @@
 						</ul>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Apply</a></p>
+						<p>Apply</p>
+						<ul class="footer">
+							<li><a href="?page=apply">Soon</a></li>
+						</ul>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Committees</a></p>
+						<p>Committees</p>
+						<ul class="footer">
+							<li><a href="?page=committees&section=adb">ADB</a></li>
+							<li><a href="?page=committees&section=disec">DISEC</a></li>
+							<li><a href="?page=committees&section=icj">ICJ</a></li>
+							<li><a href="?page=committees&section=ipc">IPC</a></li>
+							<li><a href="?page=committees&section=unsc">UNSC</a></li>
+							<li><a href="?page=committees&section=wec">WEC</a></li>
+							<li><a href="?page=committees&section=wsis">WSIS</a></li>
+							<li><a href="?page=committees&section=zopacas">ZOPACAS</a></li>
+						</ul>
 					</div>
 					<div class="col-md-2">
-						<p><a href="#">Preparation</a></p>
+						<p>Preparation</p>
+						<ul class="footer">
+							<li><a href="?page=preparation">Soon</a></li>
+						</ul>
 					</div>
 				</div>
 				<div class="row footer-copyright">

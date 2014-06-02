@@ -15,7 +15,7 @@
                         "Administrative",
                         "Academic"
                     );
-                    include 'conference/profiles.php';
+                    include 'about/profiles.php';
                 ?>
 
 
@@ -63,7 +63,7 @@
                     <?php endforeach; ?>
                 <?php endforeach; ?>
 
-            </div>
+
         </div>
     </div>
 </div>

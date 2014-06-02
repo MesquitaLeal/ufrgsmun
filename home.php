@@ -33,10 +33,18 @@
 
 		</div>
 		<div class="col-md-4">
-			<i class="fa fa-desktop fa-3x"></i>
-			<h6><a href="?page=apply">Apply</a></h6>
-			<p>Registering for UFRGSMUN 2014 is really easy.</p>
+				<i class="fa fa-laptop fa-3x"></i>
+				<h6><a href="?page=apply">Apply</a></h6>
+				<p>Registering for UFRGSMUN 2014 is really easy.</p>
+
 		</div>
+		<!--
+		<div class="col-md-4">
+			<i class="fa fa-list-ol fa-3x"></i>
+			<h6><a href="?page=apply">Committees</a></h6>
+			<p>The committees of 2014 edition are now available</p>
+		</div>
+		-->
 		<div class="col-md-4">
 			<i class="fa fa-thumbs-up fa-3x"></i>
 			<h6><a href="?page=about&section=social">Social Projects</a></h6>

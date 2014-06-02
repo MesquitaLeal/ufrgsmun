@@ -174,7 +174,7 @@
                     array(
                         'name'=>"Inaê Oliveira",
                         'role'=>"Assistant",
-                        'img'=>"default.png",
+                        'img'=>"ioliveira.jpg",
                         'bio'=>"Inaê Oliveira is a 2nd-year Law student at UFRGS. She is mainly interested in international trade law and international financial regulation. In 2013, she took part in the UFRGSMUN as a delegate in the ILC Committee and participated as a member of UFRGS’ team in the National Moot Court Competition on Inter-American Human Rights System, held by the Secretariat for Human Rights of the Presidency of the Republic. Currently, she is a scientific initiation researcher at Direito GV Law School. In 2014, she will have the pleasure to take part in the UFRGSMUN as a staff member of the International Court of Justice."
                     ),
                 ),

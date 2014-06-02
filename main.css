@@ -57,7 +57,8 @@ address {
 
 
 #mun,
-#location {
+#location,
+.committees {
 	background-color: #004667;
 }
 
@@ -110,7 +111,7 @@ address {
 }
 
 #about-title {
-	background-image: url('images/onu.jpg');
+	background: #000 url('images/onu.jpg');
 	background-size: cover;
 }
 
@@ -121,7 +122,9 @@ address {
 }
 
 #committees-title {
-	background-color: #44991f;
+	background-image: url('images/un_assembly-lg.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 
 #apply-title {
@@ -180,6 +183,18 @@ address {
 
 #secretary {
 	margin-bottom: -30px;
+}
+
+.citation {
+	padding: 15px 60px;
+}
+
+.references {
+	font-size: 1.4rem;
+	border-top: 1px dashed;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	margin-top: 20px;
 }
 
 /* Sections Style */
@@ -450,12 +465,13 @@ address {
 }
 
 .icon-column .fa-3x {
-	border-radius: 150px;
+	border-radius: 100%;
 	padding: 39px 41px;
 	margin-bottom: 10px;
 	background-color: #005881;
 	color: #ffffff;
 	text-align: center;
+	content: '';
 }
 
 .icon-column a {
@@ -607,6 +623,10 @@ section::after {
 	transform: translateX(-50%) rotate(-45deg);
 }
 
+.committees .ss-style-cross::before,
+.committees .ss-style-cross::after {
+	background: #fff;
+}
 
 
 
@@ -791,6 +811,23 @@ button:focus {
 
 	.submenu {
 		display: table;
+	}
+
+}
+
+@media print {
+
+
+	p {
+		font-size:12pt;
+		text-align: justify;
+	}
+
+	svg,
+	footer,
+	.applyNow,
+	.subpage-title {
+		display:none;
 	}
 
 }
