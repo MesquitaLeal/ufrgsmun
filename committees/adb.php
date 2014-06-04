@@ -3,50 +3,52 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> ADB</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-        <h5>Board of Directors of the Asian Development Bank</h5>
-            <p>
-                The Asian Development Bank (ADB) is a regional development finance institution
-                which has as its main goal the reduction of poverty in Asia-Pacific region.
-                Established in 22 August 1966, ADB currently has 67 members- of which 48 are
-                from the region mentioned and 19 from outside (the bank also admits members of
-                the UN Economic and Social Commission for Asia and the Pacific [UNESCAP] and
-                non-regional developed countries).  ADB’s model resembles World Bank, and has
-                a similar weighted voting system where votes are distributed in proportion with
-                member's capital subscriptions. By the end of 2012, the largest proportions of
-                shares corresponded to United States and Japan, with 12.78% each.
-            </p>
-            <p>
-                The ADB raises funds through bond issues on the world’s capital markets and through
-                contributions from its members. The institution also attempts to promoting cost
-                recovery and alternative methods of financing, creating the framework to investments
-                from the private sector, for instance. The bank also encourages projects that involve
-                regional cooperation.
-            </p>
-            <p>
-                The main body of the bank is the Board of Governors, composed by one representative
-                from each member state. This board is the responsible for the election among themselves
-                of the 12 members of the Board of Directors and their deputy. Eight of the 12 members
-                come from regional members while the others come from non-regional members. The Board
-                of Governors also elect the bank's President who is the chairperson of the Board of
-                Directors and manages the institution
-            </p>
-            <p>
-                “Fighting poverty in Asia and the Pacific” is the motto of the bank, making clear
-                what is its main objective. The ADB now works to achieve the goals proposed by its
-                “Strategy 2020: The Long Term Strategic Framework of the Asian Development Bank
-                2008-2020”. The strategy reaffirms both ADB's vision of an Asia and Pacific free
-                of poverty and its mission to help developing member countries improve the living
-                conditions and quality of life of their people. Also, the proposal determines five
-                core operational areas: a)Infrastructure, including transport and communications,
-                energy, water supply and sanitation and urban development; b) Environment; c)
-                Regional cooperation and integration; d) Finance sector development and e) Education.
-                As stated on the official website of the organization, the bank will follow with its
-                operations in assistance to other areas as health, agriculture and disaster and emergency
-                assistance, but on a more selective basis.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>Board of Directors of the Asian Development Bank</h5>
+                <p>
+                    The Asian Development Bank (ADB) is a regional development finance institution
+                    which has as its main goal the reduction of poverty in Asia-Pacific region.
+                    Established in 22 August 1966, ADB currently has 67 members- of which 48 are
+                    from the region mentioned and 19 from outside (the bank also admits members of
+                    the UN Economic and Social Commission for Asia and the Pacific [UNESCAP] and
+                    non-regional developed countries).  ADB’s model resembles World Bank, and has
+                    a similar weighted voting system where votes are distributed in proportion with
+                    member's capital subscriptions. By the end of 2012, the largest proportions of
+                    shares corresponded to United States and Japan, with 12.78% each.
+                </p>
+                <p>
+                    The ADB raises funds through bond issues on the world’s capital markets and through
+                    contributions from its members. The institution also attempts to promoting cost
+                    recovery and alternative methods of financing, creating the framework to investments
+                    from the private sector, for instance. The bank also encourages projects that involve
+                    regional cooperation.
+                </p>
+                <p>
+                    The main body of the bank is the Board of Governors, composed by one representative
+                    from each member state. This board is the responsible for the election among themselves
+                    of the 12 members of the Board of Directors and their deputy. Eight of the 12 members
+                    come from regional members while the others come from non-regional members. The Board
+                    of Governors also elect the bank's President who is the chairperson of the Board of
+                    Directors and manages the institution
+                </p>
+                <p>
+                    “Fighting poverty in Asia and the Pacific” is the motto of the bank, making clear
+                    what is its main objective. The ADB now works to achieve the goals proposed by its
+                    “Strategy 2020: The Long Term Strategic Framework of the Asian Development Bank
+                    2008-2020”. The strategy reaffirms both ADB's vision of an Asia and Pacific free
+                    of poverty and its mission to help developing member countries improve the living
+                    conditions and quality of life of their people. Also, the proposal determines five
+                    core operational areas: a)Infrastructure, including transport and communications,
+                    energy, water supply and sanitation and urban development; b) Environment; c)
+                    Regional cooperation and integration; d) Finance sector development and e) Education.
+                    As stated on the official website of the organization, the bank will follow with its
+                    operations in assistance to other areas as health, agriculture and disaster and emergency
+                    assistance, but on a more selective basis.
+                </p>
+            </section>
         </div>
+    </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>
         <path id="slitPath3" d="M50 100 C51 80 53 0 60 0 L53 0 Z"></path>

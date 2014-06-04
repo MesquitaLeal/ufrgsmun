@@ -25,8 +25,8 @@ switch ($section) {
 		include_once 'about/history.php';
 		break;
 
-	case 'social':
-		include_once 'about/social.php';
+	case 'projects':
+		include_once 'about/projects.php';
 		break;
 
 	case 'partners':

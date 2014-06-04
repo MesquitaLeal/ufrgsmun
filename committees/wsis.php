@@ -3,18 +3,20 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> WSIS</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-            <h5>Ministerial Round Table of the World Summit on the Information Society Forum 2014</h5>
-            <p>
-                The World Summit on the Information Society (WSIS) Forum is the combination of many WSIS-related events that took place since 2005. WSIS was a United Nations (UN) summit which created a multi-stakeholder platform aimed at addressing the issues raised by information and communication technologies (ICTs). WSIS’s main goal was to “achieve a common vision, desire and commitment to build a people-centric, inclusive and development-oriented Information Society where everyone can create, access, utilize and share information” (ITU, 2012).
-            </p>
-            <p>
-                The UN General Assembly Resolution 56/183 (21 December 2001) endorsed the holding of the World Summit on the Information Society (WSIS) in two phases. The first phase took place in Geneva (2003) and the second one in Tunis (2005). Since then, a cluster of WSIS-related events was held on an annual basis. In 2009, all of the WSIS-related events were rebranded as WSIS Forum. WSIS Forum is organized each year, hosted by the ITU and co-organized by ITU, UNESCO, UNCTAD and UNDP.
-            </p>
-            <p>
-                The WSIS Forum discusses many topics related to the Information Society, such as: ICT affordability, broadband for sustainable development, creation of local content, ICT infrastructure development, capacity building, including e-learning and investment in education, fostering of the innovation, ICT entrepreneurship and software development at national and regional level, preservation of culture and ecology, ensuring good governance and wellbeing of all people, accessibility, cloud computing, cybersecurity, spam, ICT policy and regulatory frameworks.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>Ministerial Round Table of the World Summit on the Information Society Forum 2014</h5>
+                <p>
+                    The World Summit on the Information Society (WSIS) Forum is the combination of many WSIS-related events that took place since 2005. WSIS was a United Nations (UN) summit which created a multi-stakeholder platform aimed at addressing the issues raised by information and communication technologies (ICTs). WSIS’s main goal was to “achieve a common vision, desire and commitment to build a people-centric, inclusive and development-oriented Information Society where everyone can create, access, utilize and share information” (ITU, 2012).
+                </p>
+                <p>
+                    The UN General Assembly Resolution 56/183 (21 December 2001) endorsed the holding of the World Summit on the Information Society (WSIS) in two phases. The first phase took place in Geneva (2003) and the second one in Tunis (2005). Since then, a cluster of WSIS-related events was held on an annual basis. In 2009, all of the WSIS-related events were rebranded as WSIS Forum. WSIS Forum is organized each year, hosted by the ITU and co-organized by ITU, UNESCO, UNCTAD and UNDP.
+                </p>
+                <p>
+                    The WSIS Forum discusses many topics related to the Information Society, such as: ICT affordability, broadband for sustainable development, creation of local content, ICT infrastructure development, capacity building, including e-learning and investment in education, fostering of the innovation, ICT entrepreneurship and software development at national and regional level, preservation of culture and ecology, ensuring good governance and wellbeing of all people, accessibility, cloud computing, cybersecurity, spam, ICT policy and regulatory frameworks.
+                </p>
+            </section>
+        </div>
     </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>

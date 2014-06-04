@@ -3,18 +3,20 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> DISEC</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-            <h5>Disarmament and International Security Committee</h5>
-            <p>
-                The Disarmament and International Security Committee (DISEC), also known as the First Committee, is one of the six main committees of the United Nations General Assembly. It addresses disarmament and international security matters in the light of the general principles of cooperation to the maintenance of international peace and security, in order to prevent the disruption of armed conflict and the heightening of tensions in the international system. Since the past decade, the committee has been focusing on issues of nuclear non-proliferation, small arms illicit traffic and regional militarization.
-            </p>
-            <p>
-                As a subsidiary organ of the General Assembly, the DISEC is entitled to present its recommendations over the issues under its consideration to a plenary meeting of the Assembly, usually in the form of draft resolutions and decisions. Through this mechanism, the First Committee has been the primary origin of legal initiatives that led to important international treaties and conventions, such as the Treaty of Non-Proliferation of Nuclear Weapons of 1968 and the Comprehensive Nuclear Test Ban Treaty of 1996.
-            </p>
-            <p>
-                Each Member State of the United Nations is represented by one delegate in this committee and decisions on draft resolutions and recommendations are approved on a two-thirds majority basis, turning the DISEC into a broad and inclusive platform for the debate of pertinent issues concerning the maintenance of international peace and security.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>Disarmament and International Security Committee</h5>
+                <p>
+                    The Disarmament and International Security Committee (DISEC), also known as the First Committee, is one of the six main committees of the United Nations General Assembly. It addresses disarmament and international security matters in the light of the general principles of cooperation to the maintenance of international peace and security, in order to prevent the disruption of armed conflict and the heightening of tensions in the international system. Since the past decade, the committee has been focusing on issues of nuclear non-proliferation, small arms illicit traffic and regional militarization.
+                </p>
+                <p>
+                    As a subsidiary organ of the General Assembly, the DISEC is entitled to present its recommendations over the issues under its consideration to a plenary meeting of the Assembly, usually in the form of draft resolutions and decisions. Through this mechanism, the First Committee has been the primary origin of legal initiatives that led to important international treaties and conventions, such as the Treaty of Non-Proliferation of Nuclear Weapons of 1968 and the Comprehensive Nuclear Test Ban Treaty of 1996.
+                </p>
+                <p>
+                    Each Member State of the United Nations is represented by one delegate in this committee and decisions on draft resolutions and recommendations are approved on a two-thirds majority basis, turning the DISEC into a broad and inclusive platform for the debate of pertinent issues concerning the maintenance of international peace and security.
+                </p>
+            </section>
+        </div>
     </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>
@@ -74,11 +76,13 @@
         <p>
             When flights are carried out by States, however, the Convention exempts itself from the responsibility of regularization - as expressed on Article 3(a) -, due to the largely controversial nature of air traffic by national police forces or the military on foreign territory. Furthermore, there is still no delimitation between airspace and outer space, which has a completely separate international legislation. Such facts points to the outdated state of current airspace regularization apparatuses (Erotokritou 2012).
         </p>
+        <p>
             At the present moment, the situation is even more complex. The current international reality presents irregular warfare throughout many continents as well as growing sophisticated technological developments in security gadgets. This contributed to the development of the unmanned aircraft systems (UAS), more specifically, the remotely piloted aircraft systems (RPAS) - popularly designated as drones. While RAPS can be largely beneficial for specific military actions, it also has political-economical disadvantages, even aside from the Human Rights spectrum. Skies occupied by drones can greatly jeopardize a country’s international commerce and the transit of people, having direct negative impacts on its population.
         </p>
         <p>
             ICAO is already working towards the establishment of a regulatory framework through Standards and Recommended Practices (SARPs) for the utilization of UAS for civil purposes (ICAO 2011b). It attempts to expand Article 8 of the Chicago Convention, which states that no pilotless aircraft can enter foreign airspace without the express authorization by foreign authorities. So far, it has brought good results regarding the civil issue. However, the utilization of RPAS for military action remains unresolved.
         </p>
+        <p>
             Delegates are invited to address the task of guaranteeing peace and stability in the skies, having in mind all the damages that continuous military actions employed by drones can cause to a State’s economy and, subsequently, to its society. Therefore, Member States in DISEC must find a way to conciliate both the security and commercial needs of all delegations, while discussing the uttermost importance of a demilitarized sky.
         </p>
         <p class="references">

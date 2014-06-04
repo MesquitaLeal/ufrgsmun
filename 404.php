@@ -1,6 +1,6 @@
 <div class="row" >
-	<div class="col-lg-12 section-title" id="s1">
+	<div class="col-lg-12 section-title" id="error-title">
 		<h1>Error 404</h1>
-		<h1>The page you were looking for doesn't exist</h1>
+		<h6>The page you are looking for does not exist</h6>
 	</div>
-</div>>
+</div>

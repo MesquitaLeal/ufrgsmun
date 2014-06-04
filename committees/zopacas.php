@@ -3,18 +3,20 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> ZOPACAS</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-        <h5>Zona de Paz e Cooperação do Atlântico Sul </h5>
-            <p>
-                A Zona de Paz e Cooperação do Atlântico Sul – doravante Zopacas – constitui o principal fórum de cooperação entre os países da América do Sul e da África que são banhados pela porção sul do Oceano Atlântico. Criada no Contexto da Guerra Fria, sob iniciativa brasileira, a Zopacas sintetiza o esforço regional em direção à cooperação sul-sul e manutenção desta área livre de armas nucleares e dos processos de militarização externos. Sua importância está na defesa da soberania dos países da região, na promoção do desenvolvimento econômico e social e na construção de uma ordem internacional multipolar e condizente com a existência de novos polos de poder.
-            </p>
-            <p>
-                O interesse em tornar o Atlântico Sul uma zona de paz e cooperação surgiu como contraponto à proposta de criação da Organização do Tratado do Atlântico Sul (OTAS) encabeçada pelos Estados Unidos e África do Sul sob o regime segregacionista do apartheid. A transformação desta zona em um “lago sul-atlântico” à serviço dos interesses norte-americanos tornou-se estratégica na década de 1970. Neste período, o conflito civil angolano, exacerbado pelas intervenções sul-africanas na África Austral, adquiriu proporções regionais e engendrou a criação dos Estados da Linha de Frente, apoiados pela URSS e contrários à política expansionista da África do Sul. A Guerra das Malvinas – como decorrência à inoperância do Tratado Interamericano de Assistência Recíproca (TIAR) – seria o ponto de partida para a descrença em um pacto como a OTAS e para a convergência dos países sul-atlânticos em direção ao estabelecimento de uma região pacífica e soberana.
-            </p>
-            <p>
-                A proposta de criação desta zona foi aprovada em 1986, através da Resolução 41/11 da Assembleia Geral das Nações Unidas. Ao todo 24 países constituem este bloco: Argentina, Brasil, Uruguai, África do Sul, Angola, Benin, Cabo Verde, Camarões, Congo, Costa do Marfim, Gabão, Gâmbia, Gana, Guiné, Guiné-Bissau, Guiné Equatorial, Libéria, Namíbia, Nigéria, República Democrática do Congo, São Tomé e Príncipe, Senegal, Serra Leoa e Togo. Já foram realizadas sete Reuniões Ministeriais da Zopacas, a última em 2013, na cidade de Montevidéu. Em 2014, a Presidência Pro-Tempore estará à cargo de Cabo Verde, que sediará a nova Reunião Ministerial. O objetivo inicial era a realização de Reuniões Ministeriais periódicas, com aprovação de uma Declaração Final e um Plano de Ação para guiar as ações de cooperação na região.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>Zona de Paz e Cooperação do Atlântico Sul </h5>
+                <p>
+                    A Zona de Paz e Cooperação do Atlântico Sul – doravante Zopacas – constitui o principal fórum de cooperação entre os países da América do Sul e da África que são banhados pela porção sul do Oceano Atlântico. Criada no Contexto da Guerra Fria, sob iniciativa brasileira, a Zopacas sintetiza o esforço regional em direção à cooperação sul-sul e manutenção desta área livre de armas nucleares e dos processos de militarização externos. Sua importância está na defesa da soberania dos países da região, na promoção do desenvolvimento econômico e social e na construção de uma ordem internacional multipolar e condizente com a existência de novos polos de poder.
+                </p>
+                <p>
+                    O interesse em tornar o Atlântico Sul uma zona de paz e cooperação surgiu como contraponto à proposta de criação da Organização do Tratado do Atlântico Sul (OTAS) encabeçada pelos Estados Unidos e África do Sul sob o regime segregacionista do apartheid. A transformação desta zona em um “lago sul-atlântico” à serviço dos interesses norte-americanos tornou-se estratégica na década de 1970. Neste período, o conflito civil angolano, exacerbado pelas intervenções sul-africanas na África Austral, adquiriu proporções regionais e engendrou a criação dos Estados da Linha de Frente, apoiados pela URSS e contrários à política expansionista da África do Sul. A Guerra das Malvinas – como decorrência à inoperância do Tratado Interamericano de Assistência Recíproca (TIAR) – seria o ponto de partida para a descrença em um pacto como a OTAS e para a convergência dos países sul-atlânticos em direção ao estabelecimento de uma região pacífica e soberana.
+                </p>
+                <p>
+                    A proposta de criação desta zona foi aprovada em 1986, através da Resolução 41/11 da Assembleia Geral das Nações Unidas. Ao todo 24 países constituem este bloco: Argentina, Brasil, Uruguai, África do Sul, Angola, Benin, Cabo Verde, Camarões, Congo, Costa do Marfim, Gabão, Gâmbia, Gana, Guiné, Guiné-Bissau, Guiné Equatorial, Libéria, Namíbia, Nigéria, República Democrática do Congo, São Tomé e Príncipe, Senegal, Serra Leoa e Togo. Já foram realizadas sete Reuniões Ministeriais da Zopacas, a última em 2013, na cidade de Montevidéu. Em 2014, a Presidência Pro-Tempore estará à cargo de Cabo Verde, que sediará a nova Reunião Ministerial. O objetivo inicial era a realização de Reuniões Ministeriais periódicas, com aprovação de uma Declaração Final e um Plano de Ação para guiar as ações de cooperação na região.
+                </p>
+            </section>
+        </div>
     </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>

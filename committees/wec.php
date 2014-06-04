@@ -3,15 +3,17 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> WEC</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-            <h5>WORLD ENERGY COUNCIL</h5>
-            <p>
-                The World Energy Council (WEC) is the UN-accredited global energy body, and it is the principal impartial forum of leaders aiming at the development of an affordable and sustainable energy system. It is based in London and it supports intergovernmental organizations, governments and companies in achieving that goal. The WEC brings together all of the world’s economic areas, every kind of organization and every kind of energy ranging, from renewable to fossil fuels. Its network is currently made up of more than 3,000 organizations in over 90 countries from its six main regions: Asia, Africa, Europe, Latin America & Caribbean, Middle East and North America.
-            </p>
-            <p>
-                Since its creation in 1923, the WEC has gone through several changes to adapt in a world where the way people understand and use energy is constantly changing. Every year, it informs global, regional and national energy strategies and trends by hosting events (such as the World Energy Congress), publishing studies and facilitating the dialogue about world’s energies policies. The Council has a key role to play in the energy scene, and it uses its wide network of members, its collective knowledge and its influence to help the world towards a sustainable energy future. In this XII UFRGSMUN, will be simulated the Ministerial Meeting, which brings together government representatives from all member countries.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>WORLD ENERGY COUNCIL</h5>
+                <p>
+                    The World Energy Council (WEC) is the UN-accredited global energy body, and it is the principal impartial forum of leaders aiming at the development of an affordable and sustainable energy system. It is based in London and it supports intergovernmental organizations, governments and companies in achieving that goal. The WEC brings together all of the world’s economic areas, every kind of organization and every kind of energy ranging, from renewable to fossil fuels. Its network is currently made up of more than 3,000 organizations in over 90 countries from its six main regions: Asia, Africa, Europe, Latin America & Caribbean, Middle East and North America.
+                </p>
+                <p>
+                    Since its creation in 1923, the WEC has gone through several changes to adapt in a world where the way people understand and use energy is constantly changing. Every year, it informs global, regional and national energy strategies and trends by hosting events (such as the World Energy Congress), publishing studies and facilitating the dialogue about world’s energies policies. The Council has a key role to play in the energy scene, and it uses its wide network of members, its collective knowledge and its influence to help the world towards a sustainable energy future. In this XII UFRGSMUN, will be simulated the Ministerial Meeting, which brings together government representatives from all member countries.
+                </p>
+            </section>
+        </div>
     </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>

@@ -4,9 +4,10 @@
 		<title>UFRGSMUN 2014</title>
 		<meta name="viewport" content="width=device-width initial-scale=1">
 		<meta charset="utf-8">
+		<link rel="icon" href="images/favicon.ico" />
 		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="font-awesome/css/font-awesome.css">
-		<link type="text/css" rel="stylesheet" href="main.css">
+		<link type="text/css" rel="stylesheet" href="main2.css">
 	</head>
 
 	<body>
@@ -19,10 +20,10 @@
   						<div class="navbar-fixed-top navbar-top col-md-12">
   							<div class="container-fluid">
   								<a href="mailto:ufrgsmun@ufrgs.com.br" alt="Enviar e-mail"><i class="fa fa-envelope fa-lg"></i></a>
-  								<a href="https://www.youtube.com/ufrgsmun"><i class="fa fa-youtube fa-lg"></i></a>
-  								<a href="https://plus.google.com/112578532170821947016"><i class="fa fa-google-plus fa-lg"></i></a>
-  								<a href="https://www.facebook.com/ufrgsmun"><i class="fa fa-facebook fa-lg"></i></a>
-  								<a href="https://twitter.com/ufrgsmun"><i class="fa fa-twitter fa-lg"></i></a>
+  								<a href="https://www.youtube.com/ufrgsmun" target="_blank"><i class="fa fa-youtube fa-lg"></i></a>
+  								<a href="https://plus.google.com/112578532170821947016" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+  								<a href="https://www.facebook.com/ufrgsmun" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+  								<a href="https://twitter.com/ufrgsmun" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
   							</div>
   						</div>
   						<div class="navbar-header">
@@ -44,9 +45,9 @@
 									<ul class="dropdown-menu">
 										<li><a href="?page=about&section=mun">What is a MUN?</a></li>
 										<li><a href="?page=about&section=meet">Meet Us</a></li>
-										<li><a href="?page=about&section=social">Social Projects</a></li>
-										<!--<li><a href="?page=about&section=history">Our History</a></li>
-										<li><a href="?page=about&section=partners">Partners</a></li>-->
+										<li><a href="?page=about&section=history">Our History</a></li>
+										<li><a href="?page=about&section=projects">Partner Projects</a></li>
+										<!--<li><a href="?page=about&section=partners">Partners</a></li>-->
 									</ul>
 								</li>
 								<li class="dropdown">
@@ -88,7 +89,19 @@
 										<li><a href="?page=committees&section=zopacas">ZOPACAS</a></li>
 									</ul>
 								</li>
-								<li><a href="?page=preparation">Preparation</a></li>
+								<li class="dropdown">
+									<a href="?page=preparation">
+										Preparation <i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
+										<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+										<li><a href="?page=preparation&section=study">Study Guides</a></li>
+										<li><a href="?page=preparation&section=schedule">Schedule</a></li>
+										<li><a href="?page=preparation&section=logistics">Logistics</a></li>
+										<li><a href="?page=preparation&section=links">Useful links</a></li>
+									</ul>
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -117,7 +130,7 @@
 					break;
 
 				case 'preparation':
-					require 'preparation.php';
+					require 'preparation/index.php';
 					break;
 
 				case 'conference':
@@ -145,7 +158,8 @@
 						<ul class="footer">
 							<li><a href="?page=about&section=mun">What is a MUN?</a></li>
 							<li><a href="?page=about&section=meet">Meet Us</a></li>
-							<li><a href="?page=about&section=social">Social Projects</a></li>
+							<li><a href="?page=about&section=history">Our History</a></li>
+							<li><a href="?page=about&section=projects">Partner Projects</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">
@@ -176,7 +190,12 @@
 					<div class="col-md-2">
 						<p>Preparation</p>
 						<ul class="footer">
-							<li><a href="?page=preparation">Soon</a></li>
+							<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
+							<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+							<li><a href="?page=preparation&section=study">Study Guides</a></li>
+							<li><a href="?page=preparation&section=schedule">Schedule</a></li>
+							<li><a href="?page=preparation&section=logistics">Logistics</a></li>
+							<li><a href="?page=preparation&section=links">Useful links</a></li>
 						</ul>
 					</div>
 				</div>

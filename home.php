@@ -2,7 +2,7 @@
 <div class="row" >
 	<div class="col-lg-12 section-title" id="home-title">
 		<h1>UFRGSMUN 2014</h1>
-		<h1>October 31<span class="superscript">th</span> -	 November 4<span class="superscript">th</span> // Porto Alegre, RS</h1>
+		<h1>October 31<span class="superscript">st</span> -	 November 4<span class="superscript">th</span> // Porto Alegre, RS</h1>
 	</div>
 </div>
 
@@ -27,13 +27,13 @@
 <section class="icon-column">
 	<div class="row">
 		<div class="col-md-4">
-				<i class="fa fa-users fa-3x"></i>
+				<a href="?page=about&section=meet"><i class="fa fa-users fa-3x"></i></a>
 				<h6><a href="?page=about&section=meet">Meet us</a></h6>
 				<p>Meet the Secretariat of UFRGSMUN 2014</p>
 
 		</div>
 		<div class="col-md-4">
-				<i class="fa fa-laptop fa-3x"></i>
+				<a href="?page=apply"><i class="fa fa-laptop fa-3x"></i></a>
 				<h6><a href="?page=apply">Apply</a></h6>
 				<p>Registering for UFRGSMUN 2014 is really easy.</p>
 
@@ -46,8 +46,8 @@
 		</div>
 		-->
 		<div class="col-md-4">
-			<i class="fa fa-thumbs-up fa-3x"></i>
-			<h6><a href="?page=about&section=social">Social Projects</a></h6>
+			<a href="?page=about&section=projects"><i class="fa fa-thumbs-up fa-3x"></i></a>
+			<h6><a href="?page=about&section=projects">Partner Projects</a></h6>
 			<p>UFRGSMUN is engaged in several social activities.</p>
 		</div>
 </div>

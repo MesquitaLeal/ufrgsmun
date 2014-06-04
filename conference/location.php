@@ -37,48 +37,50 @@
 			</svg>
 
     <div class="row navy-blue content">
-        <h6>Porto Alegre</h6>
-        <p>
-            Porto Alegre, the capital of Rio Grande do Sul—the southernmost Brazilian state—,
-            is amongst the cities with the highest Human Development Indicators in Brazil. The
-            city is one of top cultural, political and economic centres of the country. It
-            became known worldwide for hosting the World Social Forum—an event that gathers
-            third sector organizations and delegates from hundreds of countries—from 2001 to
-            2003, 2005 and 2010 and also for its two world champion soccer teams—Grêmio and Internacional.
-        </p>
-        <p>
-            The high life quality of Porto Alegre is strongly in evidence for the ones who come to
-            visit it. Along the sidewalks there are around 1 million planted trees, not to mention
-            the vegetation of its 11 parks, the many squares and biological reserves that make the
-            air always pleasant for its approximately 1.4 million inhabitants.
-        </p>
-        <p>
-            Gathering the intense rhythm of a metropolis with the serene habits of a small town, Porto
-            Alegre is a multicultural city that offers a wide range of cultural options, besides its
-            well-known gastronomic and shopping routes. The main immigrants that came to the city in the
-            past were German, Italian and Polish, besides Portuguese, African and Spanish ones. Their
-            cultures, having mixed with the natives, have built an exquisite combination, which amazes
-            tourists, both of gastronomically and culturally.
-        </p>
-        <p>
-            As far as the Mercosur is concerned, Porto Alegre is located midway between Brazil’s main business
-            centres—as the cities of Rio de Janeiro and São Paulo—and the capitals of other member countries,
-            such as Buenos Aires and Montevideo. Due to such a privileged position, the city became the main
-            route for international business in Mercosur (the States-parties to the Montevidéo Treaty are Argentina,
-            Brazil, Paraguay, Uruguay and Venezuela).
-        </p>
-        <p>
-            Some of Porto Alegre’s greatest attractions are the “Historical Downtown”, which houses the Metropolitan
-            Cathedral, the Piratini Palace and the São Pedro Theatre; and the famous sunset by the Guaíba lake shore,
-            the most romantic postcard of the capital. Furthermore, delegates at UFRGSMUN will be able to enjoy the
-            moment of cultural turbulence brought by the traditional Book Fair of Porto Alegre, the largest open-air
-            book fair in the American continent, the 58th edition of which is expected to bring over 2 million visitors
-            to the city in November.
-        </p>
-        <p>
-            For all that, Porto Alegre is a city to visit, to live in, to admire and to love. We hope you, UFRGSMUNers,
-            feel very welcome in our city and enjoy the very best of it.
-        </p>
+        <div class="col-md-12">
+            <h6>Porto Alegre</h6>
+            <p>
+                Porto Alegre, the capital of Rio Grande do Sul—the southernmost Brazilian state—,
+                is amongst the cities with the highest Human Development Indicators in Brazil. The
+                city is one of top cultural, political and economic centres of the country. It
+                became known worldwide for hosting the World Social Forum—an event that gathers
+                third sector organizations and delegates from hundreds of countries—from 2001 to
+                2003, 2005 and 2010 and also for its two world champion soccer teams—Grêmio and Internacional.
+            </p>
+            <p>
+                The high life quality of Porto Alegre is strongly in evidence for the ones who come to
+                visit it. Along the sidewalks there are around 1 million planted trees, not to mention
+                the vegetation of its 11 parks, the many squares and biological reserves that make the
+                air always pleasant for its approximately 1.4 million inhabitants.
+            </p>
+            <p>
+                Gathering the intense rhythm of a metropolis with the serene habits of a small town, Porto
+                Alegre is a multicultural city that offers a wide range of cultural options, besides its
+                well-known gastronomic and shopping routes. The main immigrants that came to the city in the
+                past were German, Italian and Polish, besides Portuguese, African and Spanish ones. Their
+                cultures, having mixed with the natives, have built an exquisite combination, which amazes
+                tourists, both of gastronomically and culturally.
+            </p>
+            <p>
+                As far as the Mercosur is concerned, Porto Alegre is located midway between Brazil’s main business
+                centres—as the cities of Rio de Janeiro and São Paulo—and the capitals of other member countries,
+                such as Buenos Aires and Montevideo. Due to such a privileged position, the city became the main
+                route for international business in Mercosur (the States-parties to the Montevidéo Treaty are Argentina,
+                Brazil, Paraguay, Uruguay and Venezuela).
+            </p>
+            <p>
+                Some of Porto Alegre’s greatest attractions are the “Historical Downtown”, which houses the Metropolitan
+                Cathedral, the Piratini Palace and the São Pedro Theatre; and the famous sunset by the Guaíba lake shore,
+                the most romantic postcard of the capital. Furthermore, delegates at UFRGSMUN will be able to enjoy the
+                moment of cultural turbulence brought by the traditional Book Fair of Porto Alegre, the largest open-air
+                book fair in the American continent, the 58th edition of which is expected to bring over 2 million visitors
+                to the city in November.
+            </p>
+            <p>
+                For all that, Porto Alegre is a city to visit, to live in, to admire and to love. We hope you, UFRGSMUNers,
+                feel very welcome in our city and enjoy the very best of it.
+            </p>
+        </div>
     </div>
 
 </div>

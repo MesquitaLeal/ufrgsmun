@@ -3,18 +3,20 @@
         <h6>Home <i class="fa fa-angle-double-right"></i> Committees <i class="fa fa-angle-double-right"></i> ICJ</h6>
     </div>
     <div class="row blue content">
-        <section class="subsection-text">
-            <h5>International Court of Justice</h5>
-            <p>
-                The International Court of Justice (ICJ) is the oldest and principal judicial organ of the United Nations. It was created through the UN Charter, in 1945, as part of the system of peaceful settlement of disputes. Its work as a replacer of the Permanent Court of International Justice (PCIJ) began in 1945, and its Statute is very much alike its predecessor’s at the League of Nations. The first case of the ICJ Docket was the Corfu Channel (United Kingdom v. Albania), submitted on 22 May 1947, and, since then, almost 150 cases were received by the Court. The number of cases brought before the Court is increasing rapidly since the 1980’s.
-            </p>
-            <p>
-                This judicial body’s functions are (1) to settle international disputes of a legal content brought by States (Contentious Jurisdiction of the Court) and (2) to give opinions on juridical matters raised by UN organs and specialized agencies (Jurisdiction to provide Advisory Opinions). The proceeding adopted by the Court includes a written and an oral stage, both public, and, once the latter is completed, the judges deliberate in closed chambers. ICJ’s decisions are final and cannot be appealed.
-            </p>
-            <p>
-                There are fifteen standing judges elected in a Charter-based process for nine-year terms. Judges are elected on the basis of their notorious knowledge of the law, not their nationality, and, unlike diplomats, they shall not represent their governments. The voting procedure for their election is strict, and demands a majority of votes both in the United Nations General Assembly and in the Security Council. The aforementioned elections occur every three years for one third of the seats (five judges), and re-elections are allowed. There cannot be more than one judge elected of each nationality. When a Contentious Case is brought before the Court, if there are no standing judges of the parties’ nationality, they may request an ad hoc judge of their choice.
-            </p>
-        </section>
+        <div class="col-lg-12">
+            <section class="subsection-text">
+                <h5>International Court of Justice</h5>
+                <p>
+                    The International Court of Justice (ICJ) is the oldest and principal judicial organ of the United Nations. It was created through the UN Charter, in 1945, as part of the system of peaceful settlement of disputes. Its work as a replacer of the Permanent Court of International Justice (PCIJ) began in 1945, and its Statute is very much alike its predecessor’s at the League of Nations. The first case of the ICJ Docket was the Corfu Channel (United Kingdom v. Albania), submitted on 22 May 1947, and, since then, almost 150 cases were received by the Court. The number of cases brought before the Court is increasing rapidly since the 1980’s.
+                </p>
+                <p>
+                    This judicial body’s functions are (1) to settle international disputes of a legal content brought by States (Contentious Jurisdiction of the Court) and (2) to give opinions on juridical matters raised by UN organs and specialized agencies (Jurisdiction to provide Advisory Opinions). The proceeding adopted by the Court includes a written and an oral stage, both public, and, once the latter is completed, the judges deliberate in closed chambers. ICJ’s decisions are final and cannot be appealed.
+                </p>
+                <p>
+                    There are fifteen standing judges elected in a Charter-based process for nine-year terms. Judges are elected on the basis of their notorious knowledge of the law, not their nationality, and, unlike diplomats, they shall not represent their governments. The voting procedure for their election is strict, and demands a majority of votes both in the United Nations General Assembly and in the Security Council. The aforementioned elections occur every three years for one third of the seats (five judges), and re-elections are allowed. There cannot be more than one judge elected of each nationality. When a Contentious Case is brought before the Court, if there are no standing judges of the parties’ nationality, they may request an ad hoc judge of their choice.
+                </p>
+            </section>
+        </div>
     </div>
     <svg id="slit" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path id="slitPath2" d="M50 100 C49 80 47 0 40 0 L47 0 Z"></path>
