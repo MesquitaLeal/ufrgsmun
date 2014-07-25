@@ -50,12 +50,6 @@
                         'bio'=>"Aline de Ávila Rocha, Assistant Administrative, is a 3th semester student of International Relations at UFRGS. Her first contact with the event was in 2013 participating in DISEC’s committee representing India. In the 14th edition of UFRGSMUN she participates as an assistant on the administrative staff."
                     ),
                     array(
-                        'name'=>"Cecílio Dias Marques",
-                        'role'=>"Fund-Raising",
-                        'img'=>"default.jpg",
-                        'bio'=>"No description available."
-                    ),
-                    array(
                         'name'=>"Alice Saute Leitão",
                         'role'=>"Events",
                         'img'=>"aleitao.jpg",
@@ -84,12 +78,6 @@
                         'role'=>"Communications",
                         'img'=>"default.jpg",
                         'bio'=>"Marcel Hartmann is a 9th semester student of Journalism at UFRGS. He has experience with online and broadcast journalism, as well as with press agency. His main areas of interest are international, science and health journalism. His interest by international journalism started when he studied European politics and French culture in Grenoble, France. At the 10th UFRGSMUN, he is in charge of the Press Office. "
-                    ),
-                    array(
-                        'name'=>"Vitória Maldonado",
-                        'role'=>"Communications",
-                        'img'=>"default.jpg",
-                        'bio'=>"No description available."
                     ),
                 ),
             ),
