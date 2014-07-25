@@ -4,6 +4,11 @@
 		<title>UFRGSMUN 2014</title>
 		<meta name="viewport" content="width=device-width initial-scale=1">
 		<meta charset="utf-8">
+		<meta property="og:title" content="UFRGSMUN 2014" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="UFRGSMUN is an academic simulation where the participants act as representatives of the worlds's nations in one of the many organs to be simulated." />
+		<meta property="og:url" content="http://www.ufrgs.br/ufrgsmun/2014/index.php" />
+		<meta property="og:image" content="http://www.ufrgs.br/ufrgsmun/2014/images/ufrgsmun_facebook.jpg" />
 		<link rel="icon" href="images/favicon.ico" />
 		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="font-awesome/css/font-awesome.css">
@@ -47,7 +52,7 @@
 										<li><a href="?page=about&section=meet">Meet Us</a></li>
 										<li><a href="?page=about&section=history">Our History</a></li>
 										<li><a href="?page=about&section=projects">Partner Projects</a></li>
-										<!--<li><a href="?page=about&section=partners">Partners</a></li>-->
+										<li><a href="?page=about&section=partners">Sponsors</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
@@ -160,6 +165,7 @@
 							<li><a href="?page=about&section=meet">Meet Us</a></li>
 							<li><a href="?page=about&section=history">Our History</a></li>
 							<li><a href="?page=about&section=projects">Partner Projects</a></li>
+							<li><a href="?page=about&section=partners">Sponsors</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">

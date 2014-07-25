@@ -784,6 +784,16 @@ button:focus {
 	display: initial;
 }
 
+.thumbnail {
+	height: 200px;
+}
+
+.thumbnail img {
+	position: relative;
+	top: 15%;
+	height: 120px;
+}
+
 /* Media queries */
 
 @media (max-width: 910px) {
