@@ -119,7 +119,7 @@
                         'name'=>"Victor Merola",
                         'role'=>"Director",
                         'img'=>"vmerola.jpg",
-                        'bio'=>"No description available."
+                        'bio'=>"Director of DISEC, Victor is a 7th semester student of International Relations at UFRGS. His main areas of interest include International Security and Regional Studies in Asia and Africa. His first simulation took place at UFRGSMUN in 2012, representing Cambodia in the ASEAN Regional Forum. Since then, he has participated during the year of 2013 in other MUNs throughout Brazil, namely TEMAS and FAMUN, and in UFRGSMUN once again. Furthermore, he has also been actively involved in MUN activities for High School students."
                     ),
                     array(
                         'name'=>"Giordano Bruno Antoniazzi Ronconi",
@@ -217,7 +217,7 @@
                         'name'=>"Gabriela Jahn Verri",
                         'role'=>"Director",
                         'img'=>"gverri.jpg",
-                        'bio'=>"No description available."
+                        'bio'=>"Gabriela Jahn Verri is a 3rd year Law student at UFRGS. Her deep interest in UFRGSMUN is actually prior to her entry at the university, but she first got involved with it in 2011, representing the United Kingdom in the Special Political and Decolonization Committee. Earlier in 2012 she took part in the Philip C. Jessup Moot Court Competition as an agent and later this year she participated in AMUN as a judge of the International Court of Justice. In the 10th edition of UFRGSMUN she was an assistant director in the United Nations Human Rights Council, which in UFRGSMUN 2013 she was a Director."
                     ),
                     array(
                         'name'=>"Eduardo Dondonis Pereira",
@@ -255,7 +255,7 @@
                         'name'=>"Ana Carolina Melos",
                         'role'=>"Assistant",
                         'img'=>"amelos.jpg",
-                        'bio'=>"No description available."
+                        'bio'=>"Ana Carolina is a 6th semester student of International Relations in Federal University of Rio Grande do Sul. Her experience in MUNs began in 2012, when she participated for the first time at UFRGSMUN, acting in Gabon's delegation in UNEP committee. In 2013, she represented Russian Federation in UN Security Council. Her main areas of interest are Strategic Studies, South America Studies, Security and Defense Issues and Regional Integration. She is also one of coordinators of CERI (Centro Estudantil de Relações Internacionais) and UFRGSMUN Back in School – BIS, a project directed to High School students of public schools in Porto Alegre and nearby cities in which graduation students introduce the debate about the UN system and the main topics of the international agenda. Ana Carolina is also Director in African Union committee in UFRGSMUNDI, a model for High Schools students, in which she takes part since 2013."
                     ),
                     array(
                         'name'=>"Natália Regina Colvero Maraschin",
