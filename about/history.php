@@ -8,7 +8,7 @@
         <p>Click on the images below to learn more about each UFRGSMUN edition</p>
     </div>
     <?php
-        include 'about/years.php'; 
+        include 'about/years.php';
     ?>
     <?php foreach ($history as $years => $year) :?>
         <?php three_column($years-2003) ;?>
