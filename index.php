@@ -66,16 +66,16 @@
 										<li><a href="?page=conference&section=location">Location</a></li>
 									</ul>
 								</li>
-								<li>
-									<a href="?page=apply">
-										Apply
+								<li class="dropdown">
+									<a href="?page=apply" class="dropdown-toggle" data-toggle="dropdown">
+										Apply <i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li><a href="#">How to register</a></li>
+										<!--<li><a href="#">How to register</a></li>
 										<li><a href="#">Fees and dates</a></li>
 										<li><a href="#">Register Forms</a></li>
-										<li><a href="#">Payment</a></li>
-										<li><a href="#">Country Matrix</a></li>
+										<li><a href="#">Payment</a></li>-->
+										<li><a href="?page=apply&section=countries">Country Matrix</a></li>
 									</ul>
 
 								</li>
@@ -131,7 +131,7 @@
 					break;
 
 				case 'apply':
-					require 'apply.php';
+					require 'apply/index.php';
 					break;
 
 				case 'preparation':
@@ -177,7 +177,7 @@
 					<div class="col-md-2">
 						<p>Apply</p>
 						<ul class="footer">
-							<li><a href="?page=apply">Soon</a></li>
+							<li><a href="?page=apply&section=countries">Country Matrix</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">
