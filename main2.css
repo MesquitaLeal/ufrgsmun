@@ -72,6 +72,7 @@ address {
 
 #mun,
 #location,
+#partners,
 .committees {
 	background-color: #004667;
 }
@@ -786,6 +787,7 @@ button:focus {
 
 .thumbnail {
 	height: 200px;
+	border-radius:20px;
 }
 
 .thumbnail img {
