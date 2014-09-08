@@ -13,24 +13,33 @@ switch ($section) {
         include_once 'conference/index.php';
         break;
 
-    case 'mun':
-        include_once 'conference/mun.php';
-        break;
-
-    case 'meet':
-        include_once 'conference/meet.php';
-        break;
-
-    case 'history':
-        include_once 'conference/history.php';
+    case 'socialevents':
+        include_once 'conference/socialevents.php';
         break;
 
     case 'location':
         include_once 'conference/location.php';
         break;
 
-    case 'partners':
-        include_once 'conference/partners.php';
+    case 'policies':
+        include_once 'conference/policies.php';
         break;
+
+    case 'invitation':
+        include_once 'conference/invitation.php';
+        break;
+
+    case 'accommodation':
+        include_once 'conference/accommodation.php';
+        break;
+
+    case 'dresscode':
+        include_once 'conference/dresscode.php';
+        break;
+
+    case 'schedule':
+        include_once 'conference/schedule.php';
+        break;
+
     }
 ?>
