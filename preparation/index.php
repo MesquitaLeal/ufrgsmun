@@ -17,8 +17,8 @@ switch ($section) {
         include_once 'preparation/study.php';
         break;
 
-    case 'procedures':
-        include_once 'preparation/procedures.php';
+    case 'handbook':
+        include_once 'preparation/handbook.php';
         break;
 
     case 'paper':
@@ -29,12 +29,13 @@ switch ($section) {
         include_once 'preparation/schedule.php';
         break;
 
+    case 'award':
+        include_once 'preparation/award.php';
+        break;
+
     case 'links':
         include_once 'preparation/links.php';
         break;
 
-    case 'logistics':
-        include_once 'preparation/logistics.php';
-        break;
     }
 ?>
