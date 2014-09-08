@@ -12,7 +12,7 @@
 		<link rel="icon" href="images/favicon.ico" />
 		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="font-awesome/css/font-awesome.css">
-		<link type="text/css" rel="stylesheet" href="main2.css">
+		<link type="text/css" rel="stylesheet" href="main3.css">
 	</head>
 
 	<body>
@@ -24,7 +24,7 @@
 
   						<div class="navbar-fixed-top navbar-top col-md-12">
   							<div class="container-fluid">
-  								<a href="mailto:ufrgsmun@ufrgs.com.br" alt="Enviar e-mail"><i class="fa fa-envelope fa-lg"></i></a>
+  								<a href="mailto:ufrgsmun@ufrgs.br" alt="Enviar e-mail"><i class="fa fa-envelope fa-lg"></i></a>
   								<a href="https://www.youtube.com/ufrgsmun" target="_blank"><i class="fa fa-youtube fa-lg"></i></a>
   								<a href="https://plus.google.com/112578532170821947016" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
   								<a href="https://www.facebook.com/ufrgsmun" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
@@ -60,10 +60,16 @@
 										Conference Info <i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<!--<li><a href="?page=about&section=policies">General Policies</li>
+										<!--
 										<li><a href="?page=about&section=meet">Calendar</a></li>
 										<li><a href="?page=about&section=social">Social Events</a></li>-->
+										<li><a href="?page=conference&section=policies">General Policies</a></li>
+										<li><a href="?page=conference&section=invitation">Invitation Letter</a></li>
+										<li><a href="?page=conference&section=schedule">Schedule</a></li>
+										<li><a href="?page=conference&section=dresscode">Dress Code</a></li>
 										<li><a href="?page=conference&section=location">Location</a></li>
+										<li><a href="?page=conference&section=accommodation">Accommodation</a></li>
+										<li><a href="?page=conference&section=socialevents">Social Events</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
@@ -71,16 +77,21 @@
 										Apply <i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<!--<li><a href="#">How to register</a></li>
+										<!--
 										<li><a href="#">Fees and dates</a></li>
-										<li><a href="#">Register Forms</a></li>
 										<li><a href="#">Payment</a></li>-->
+										<li><a href="?page=apply&section=register">How to register</a></li>
+										<li><a href="?page=apply&section=infographic">Quick Guide</a></li>
 										<li><a href="?page=apply&section=countries">Country Matrix</a></li>
+										<li><a href="?page=apply&section=payment">Payment</a></li>
+										<li><a href="?page=apply&section=formA">Form A</a></li>
+										<li><a href="?page=apply&section=icjForm">ICJ Form</a></li>
+										<li><a href="?page=apply&section=ipcForm">IPC Form</a></li>
 									</ul>
 
 								</li>
 								<li class="dropdown">
-									<a href="?page=committees">
+									<a href="?page=committees" class="dropdown-toggle" data-toggle="dropdown">
 										Committees <i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
@@ -95,15 +106,17 @@
 									</ul>
 								</li>
 								<li class="dropdown">
-									<a href="?page=preparation">
+									<a href="?page=preparation" class="dropdown-toggle" data-toggle="dropdown">
 										Preparation <i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
-										<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+										<!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
 										<li><a href="?page=preparation&section=study">Study Guides</a></li>
 										<li><a href="?page=preparation&section=schedule">Schedule</a></li>
-										<li><a href="?page=preparation&section=logistics">Logistics</a></li>
+										<li><a href="?page=preparation&section=logistics">Logistics</a></li>-->
+										<li><a href="?page=preparation&section=handbook">Easy Handbook</a></li>
+										<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+										<li><a href="?page=preparation&section=award">Award Policy</a></li>
 										<li><a href="?page=preparation&section=links">Useful links</a></li>
 									</ul>
 								</li>
@@ -152,7 +165,7 @@
 
 			<div class="row applyNow">
 				<p>
-					Have you not registered yet?<a href="?page=apply">Apply now</a>
+					Have you not registered yet?<a href="?page=apply&section=register">Apply now</a>
 				</p>
 			</div>
 
@@ -171,13 +184,25 @@
 					<div class="col-md-2">
 						<p>Conference Info</p>
 						<ul class="footer">
+							<li><a href="?page=conference&section=policies">General Policies</a></li>
+							<li><a href="?page=conference&section=invitation">Invitation Letter</a></li>
+							<li><a href="?page=conference&section=schedule">Schedule</a></li>
+							<li><a href="?page=conference&section=dresscode">Dress Code</a></li>
 							<li><a href="?page=conference&section=location">Location</a></li>
+							<li><a href="?page=conference&section=accommodation">Accommodation</a></li>
+							<li><a href="?page=conference&section=socialevents">Social Events</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">
 						<p>Apply</p>
 						<ul class="footer">
+							<li><a href="?page=apply&section=register">How to register</a></li>
+							<li><a href="?page=apply&section=infographic">Quick Guide</a></li>
 							<li><a href="?page=apply&section=countries">Country Matrix</a></li>
+							<li><a href="?page=apply&section=payment">Payment</a></li>
+							<li><a href="?page=apply&section=formA">Form A</a></li>
+							<li><a href="?page=apply&section=icjForm">ICJ Form</a></li>
+							<li><a href="?page=apply&section=ipcForm">IPC Form</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2">
@@ -196,11 +221,13 @@
 					<div class="col-md-2">
 						<p>Preparation</p>
 						<ul class="footer">
-							<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
-							<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+							<!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
 							<li><a href="?page=preparation&section=study">Study Guides</a></li>
 							<li><a href="?page=preparation&section=schedule">Schedule</a></li>
-							<li><a href="?page=preparation&section=logistics">Logistics</a></li>
+							<li><a href="?page=preparation&section=logistics">Logistics</a></li>-->
+							<li><a href="?page=preparation&section=handbook">Easy Handbook</a></li>
+							<li><a href="?page=preparation&section=paper">Position Paper</a></li>
+							<li><a href="?page=preparation&section=award">Award Policy</a></li>
 							<li><a href="?page=preparation&section=links">Useful links</a></li>
 						</ul>
 					</div>

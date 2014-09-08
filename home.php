@@ -27,14 +27,14 @@
 <section class="icon-column">
 	<div class="row">
 		<div class="col-md-4">
-				<a href="?page=about&section=meet"><i class="fa fa-users fa-3x"></i></a>
-				<h6><a href="?page=about&section=meet">Meet us</a></h6>
-				<p>Meet the Secretariat of UFRGSMUN 2014</p>
+				<a href="?page=apply&section=countries"><i class="fa fa-users fa-3x"></i></a>
+				<h6><a href="?page=apply&section=countries">Country Matrix</a></h6>
+				<p>Check out our country/committee matrix</p>
 
 		</div>
 		<div class="col-md-4">
 				<a href="?page=apply"><i class="fa fa-laptop fa-3x"></i></a>
-				<h6><a href="?page=apply">Apply</a></h6>
+				<h6><a href="?page=apply&section=register">Apply</a></h6>
 				<p>Registering for UFRGSMUN 2014 is really easy.</p>
 
 		</div>
@@ -46,9 +46,9 @@
 		</div>
 		-->
 		<div class="col-md-4">
-			<a href="?page=about&section=projects"><i class="fa fa-thumbs-up fa-3x"></i></a>
-			<h6><a href="?page=about&section=projects">Partner Projects</a></h6>
-			<p>UFRGSMUN is engaged in several social activities.</p>
+			<a href="?page=about&section=meet"><i class="fa fa-thumbs-up fa-3x"></i></a>
+			<h6><a href="?page=about&section=meet">Meet us</a></h6>
+			<p>Meet the Secretariat of UFRGSMUN 2014</p>
 		</div>
 </div>
 </section>
