@@ -27,28 +27,25 @@
 <section class="icon-column">
 	<div class="row">
 		<div class="col-md-4">
+			<a href="?page=about&section=meet"><i class="fa fa-book fa-3x"></i></a>
+			<h6><a href="?page=preparation&section=study">Study Guides</a></h6>
+			<p>Click and download the Study Guides of this edition </p>
+		</div>
+
+		<div class="col-md-4">
+				<a href="?page=apply"><i class="fa fa-laptop fa-3x"></i></a>
+				<h6><a href="?page=apply&section=register">Apply</a></h6>
+				<!--<p>Registering for UFRGSMUN 2014 is really easy.</p>-->
+				<p>Late registration period is open until October 15th</p>
+
+		</div>
+
+		<div class="col-md-4">
 				<a href="?page=apply&section=countries"><i class="fa fa-users fa-3x"></i></a>
 				<h6><a href="?page=apply&section=countries">Country Matrix</a></h6>
 				<p>Check out our country/committee matrix</p>
 
 		</div>
-		<div class="col-md-4">
-				<a href="?page=apply"><i class="fa fa-laptop fa-3x"></i></a>
-				<h6><a href="?page=apply&section=register">Apply</a></h6>
-				<p>Registering for UFRGSMUN 2014 is really easy.</p>
 
-		</div>
-		<!--
-		<div class="col-md-4">
-			<i class="fa fa-list-ol fa-3x"></i>
-			<h6><a href="?page=apply">Committees</a></h6>
-			<p>The committees of 2014 edition are now available</p>
-		</div>
-		-->
-		<div class="col-md-4">
-			<a href="?page=about&section=meet"><i class="fa fa-thumbs-up fa-3x"></i></a>
-			<h6><a href="?page=about&section=meet">Meet us</a></h6>
-			<p>Meet the Secretariat of UFRGSMUN 2014</p>
-		</div>
 </div>
 </section>

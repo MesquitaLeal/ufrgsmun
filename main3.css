@@ -631,6 +631,12 @@ embed {
 	color:#fff;
 }
 
+.mc-field-group {
+	font-size: 16px;
+	font-family: Gisha;
+	font-weight: normal;
+}
+
 .footer-links {
 	padding: 50px 13.2%;
 	background-color: #242122;
@@ -952,6 +958,35 @@ td:first-child {
 	font-family: "Gisha", Arial, sans serif;
 	text-align: center;
 	text-transform: none;
+}
+
+.panel-default >.panel-heading {
+	background-color: #004667;
+	color: #ffffff;
+}
+
+.panel-default > .panel-heading a:hover {
+	background: #004667;
+	color: #fff;
+
+}
+
+.panel-body a {
+	color: #2a6496;
+}
+
+.panel-body a:hover {
+	padding-left:0;
+
+}
+
+.panel-body a > i {
+	color:#fff;
+}
+
+.panel-body a:hover > i {
+	color: #004667;
+	transition-duration: 1s;
 }
 
 .box {

@@ -85,6 +85,7 @@
 										<li><a href="?page=apply&section=countries">Country Matrix</a></li>
 										<li><a href="?page=apply&section=payment">Payment</a></li>
 										<li><a href="?page=apply&section=formA">Form A</a></li>
+										<li><a href="?page=apply&section=formB">Form B</a></li>
 										<li><a href="?page=apply&section=icjForm">ICJ Form</a></li>
 										<li><a href="?page=apply&section=ipcForm">IPC Form</a></li>
 									</ul>
@@ -111,10 +112,11 @@
 									</a>
 									<ul class="dropdown-menu">
 										<!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
-										<li><a href="?page=preparation&section=study">Study Guides</a></li>
 										<li><a href="?page=preparation&section=schedule">Schedule</a></li>
 										<li><a href="?page=preparation&section=logistics">Logistics</a></li>-->
-										<li><a href="?page=preparation&section=handbook">Easy Handbook</a></li>
+										<li><a href="?page=preparation&section=study">Study Guides</a></li>
+										<li><a href="?page=preparation&section=handbook">Handbook</a></li>
+										<li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
 										<li><a href="?page=preparation&section=paper">Position Paper</a></li>
 										<li><a href="?page=preparation&section=award">Award Policy</a></li>
 										<li><a href="?page=preparation&section=links">Useful links</a></li>
@@ -164,9 +166,11 @@
 
 
 			<div class="row applyNow">
-				<p>
-					Have you not registered yet?<a href="?page=apply&section=register">Apply now</a>
-				</p>
+				<div class="col-sm-12">
+					<p>
+						Have you not registered yet?<a href="?page=apply&section=register">Apply now</a>
+					</p>
+				</div>
 			</div>
 
 			<footer>
@@ -201,6 +205,7 @@
 							<li><a href="?page=apply&section=countries">Country Matrix</a></li>
 							<li><a href="?page=apply&section=payment">Payment</a></li>
 							<li><a href="?page=apply&section=formA">Form A</a></li>
+							<li><a href="?page=apply&section=formB">Form B</a></li>
 							<li><a href="?page=apply&section=icjForm">ICJ Form</a></li>
 							<li><a href="?page=apply&section=ipcForm">IPC Form</a></li>
 						</ul>
@@ -222,10 +227,11 @@
 						<p>Preparation</p>
 						<ul class="footer">
 							<!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
-							<li><a href="?page=preparation&section=study">Study Guides</a></li>
 							<li><a href="?page=preparation&section=schedule">Schedule</a></li>
 							<li><a href="?page=preparation&section=logistics">Logistics</a></li>-->
-							<li><a href="?page=preparation&section=handbook">Easy Handbook</a></li>
+							<li><a href="?page=preparation&section=study">Study Guides</a></li>
+							<li><a href="?page=preparation&section=handbook">Handbook</a></li>
+							<li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
 							<li><a href="?page=preparation&section=paper">Position Paper</a></li>
 							<li><a href="?page=preparation&section=award">Award Policy</a></li>
 							<li><a href="?page=preparation&section=links">Useful links</a></li>
@@ -238,6 +244,8 @@
 				</div>
 			</footer>
 		</div>
+
+
 
 
 		<script type="text/javascript" src="js/jquery-2.1.0.js"></script>
