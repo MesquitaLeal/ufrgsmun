@@ -10,7 +10,7 @@
 
                 <div class="row day">
                     <div class="col-lg-12">
-                        <p>November 2nd (Wednesday)</p>
+                        <p>November 31th (Friday)</p>
                     </div>
                 </div>
                 <div class="row event">
@@ -24,7 +24,7 @@
 
                 <div class="row day">
                     <div class="col-lg-12">
-                        <p>November 3rd (Thursday)</p>
+                        <p>November 1st (Saturday)</p>
                     </div>
                 </div>
                 <div class="row event">
@@ -41,7 +41,7 @@
 
                 <div class="row day">
                     <div class="col-lg-12">
-                        <p>November 4th (Friday)</p>
+                        <p>November 2nd (Sunday)</p>
                     </div>
                 </div>
                 <div class="row event">
@@ -55,7 +55,7 @@
 
                 <div class="row day">
                     <div class="col-lg-12">
-                        <p>November 5th (Saturday)</p>
+                        <p>November 3rd (Monday)</p>
                     </div>
                 </div>
                 <div class="row event">
@@ -69,7 +69,7 @@
 
                 <div class="row day">
                     <div class="col-lg-12">
-                        <p>November 6th (Sunday)</p>
+                        <p>November 4th (Tuesday)</p>
                     </div>
                 </div>
                 <div class="row event">
