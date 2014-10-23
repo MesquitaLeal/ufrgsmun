@@ -19,6 +19,18 @@
                         </a>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <a href="http://www.audiplo.com.br/home/" class="thumbnail">
+                            <img src="images/sponsors/audiplo.jpg" alt="Logo da Audiplo">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <a href="http://www.ufrgs.br/propesq/" class="thumbnail">
+                            <img src="images/sponsors/propesq.jpg" alt="Logo da Propesq">
+                        </a>
+                    </div>
+                </div>
             </section>
         </div>
     </div>
@@ -56,13 +68,13 @@
                         </a>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <a href="http://temasmg.com/" class="thumbnail">
-                            <img src="images/sponsors/temas.png" alt="Logo do Temas 10">
+                        <a href="http://www.ufrgs.br/ppgeei/" class="thumbnail">
+                            <img src="images/sponsors/ppgeei.png" alt="Logo do PPGEEI">
                         </a>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <a href="http://amun.org.br/" class="thumbnail">
-                            <img src="images/sponsors/amun.png" alt="Logo do AMUN">
+                        <a href="http://www.ufrgs.br/nerint/" class="thumbnail">
+                            <img src="images/sponsors/nerint.png" alt="Logo do NERINT">
                         </a>
                     </div>
                 </div>
@@ -75,6 +87,40 @@
                     <div class="col-xs-12 col-sm-4">
                         <a href="http://www.soi.org.br/" class="thumbnail">
                             <img src="images/sponsors/soi.png" alt="Logo da SOI">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.chinesecio.com/" class="thumbnail">
+                            <img src="images/sponsors/confucius.jpg" alt="Logo do Instituto Confucius">
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.funag.gov.br/pt_br/" class="thumbnail">
+                            <img src="images/sponsors/funag.jpg" alt="Logo da FUNAG" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.diplomatique.org.br/" class="thumbnail">
+                            <img src="images/sponsors/lemonde.jpg" alt="Logo do LeMonde Brasil" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.florybal.com.br/" class="thumbnail">
+                            <img src="images/sponsors/florybal.jpg" alt="Logo do Florybal">
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.quintadaestancia.com.br/" class="thumbnail">
+                            <img src="images/sponsors/quintaestancia.jpg" alt="Logo da Quinta Estância">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-4">
+                        <a href="http://www.ximango.com.br/" class="thumbnail">
+                            <img src="images/sponsors/ximango.jpg" alt="Logo do Ximango">
                         </a>
                     </div>
                 </div>
