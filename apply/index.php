@@ -25,6 +25,10 @@ switch ($section) {
 		include_once 'apply/formA.php';
 		break;
 
+	case 'formB':
+		include_once 'apply/formB.php';
+		break;
+
 	case 'icjForm':
 		include_once 'apply/icjForm.php';
 		break;

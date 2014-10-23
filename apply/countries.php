@@ -6,6 +6,7 @@
         <div class="col-sm-12">
             <section class="subsection-text">
                 <h5>Country Matrix</h5>
+                <h6>(Updated)</h6>
                 <p style="text-align:center">
                     You can check which countries are going to be simulated in which committee in our
                     country/committee matrix.

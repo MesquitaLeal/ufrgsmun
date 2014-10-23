@@ -179,7 +179,7 @@
         <div class="col-sm-12">
             <section class="subsection-text">
                 <p>
-                    <strong>Step 4: Filling in Form B</strong>
+                    <strong>Step 4: Filling in <a href="?page=apply&section=formB">Form B</a></strong>
                 </p>
                 <p>
                     Between October the 1st and 5th of October, Head Delegates will receive another
@@ -248,7 +248,7 @@
                 </tr>
                 <tr>
                     <td>October 5th – October 10th</td>
-                    <td>Fill out FORM B</td>
+                    <td>Fill out <a href="?page=apply&section=formB">FORM B</a></td>
                 </tr>
                 <tr>
                     <td>October 5th-October 15th</td>
