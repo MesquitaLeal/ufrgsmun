@@ -1,5 +1,5 @@
 <!-- Entrada seção -->
-<div class="row" >
+<div class="row">
 	<div class="col-lg-12 section-title" id="home-title">
 		<h1>UFRGSMUN 2014</h1>
 		<h1>October 31<span class="superscript">st</span> -	 November 4<span class="superscript">th</span> // Porto Alegre, RS</h1>
@@ -49,3 +49,28 @@
 
 </div>
 </section>
+
+<div class="modal fade" id="selecao">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header center">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<img src="images/logo_original.jpg" alt="Logo UFRGSMUN" />
+
+			</div>
+			<div class="modal-body center">
+				<p class="modal-title">Do you want to be a part of our staff in 2015?<br/>So click below and fill out our form!</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				<a href="https://docs.google.com/forms/d/1UYbpLIMDqPXnL2X6VNSl-x3WuHAcWQjlOs3jsc59Gho/viewform"><button type="button" class="btn btn-primary">Access the form</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function(){
+		$('#selecao').modal('show');
+	});
+</script>

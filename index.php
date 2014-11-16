@@ -13,6 +13,7 @@
 		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="font-awesome/css/font-awesome.css">
 		<link type="text/css" rel="stylesheet" href="main3.css">
+		<script type="text/javascript" src="js/jquery-2.1.0.js"></script>
 	</head>
 
 	<body>
@@ -168,7 +169,7 @@
 			<div class="row applyNow">
 				<div class="col-sm-12">
 					<p>
-						Have you not registered yet?<a href="?page=apply&section=register">Apply now</a>
+						Do you want to be a part of our staff in 2015?<a href="https://docs.google.com/forms/d/1UYbpLIMDqPXnL2X6VNSl-x3WuHAcWQjlOs3jsc59Gho/viewform">Click here</a>
 					</p>
 				</div>
 			</div>
@@ -244,11 +245,6 @@
 				</div>
 			</footer>
 		</div>
-
-
-
-
-		<script type="text/javascript" src="js/jquery-2.1.0.js"></script>
 		<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
